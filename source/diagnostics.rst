@@ -85,7 +85,9 @@ Viola can subtract background from the viewer image to have a clearer display of
 
    Viola viewer background subtraction window.
 
+**Save Settings**
 
+Click Save Settings to save all settings and calibrations in a json file that can also be shared with the ReA operators so they can use the same viewers. Filename is automatically created based on date and time.
 
 JENSA Viewer
 ~~~~~~~~~~~~
