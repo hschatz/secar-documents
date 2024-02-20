@@ -60,6 +60,7 @@ The viewers need to be calibrated so Viola can display x and y coordinates with 
 - Verify in that new window that image size is set correctly – it needs to match the "Details Menu" information for the respective viewer (in the right column)
 - Drag the red rectangle corners with mouse to align with the viewer rectangular frame lines at the edge of the viewer that have known dimensions. Those dimensions are entered in “Fiducials” and can be obtained from the viewer machine drawings located on the Portal under SECAR -> Documentation -> Diagnostics -> Viewer.
 - Press Apply
+- Save Settings As saves the calibration in a json file that can be shared with ReA operators. Filename is created automatically based on date and time. 
 
 .. _Viewer_Viola2:
 .. figure:: Figures/Viewer_Viola2.jpeg
